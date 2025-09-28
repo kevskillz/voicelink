@@ -28,7 +28,7 @@ We integrated ASI1 from Fetch.ai to seamlessly interact with specialized agents 
 
 One highlight of this integration is our custom Amazon agent called "Amazon Search Agent", deployed on Agentverse. VoiceLink queries ASI1 to pick and communicate with this agent, enabling users to shop on Amazon hands-free.
 
-The Amazon agent is built using Gemini API for reasoning and connects to an amazon-mcp model for commerce-related tasks. This allows us to offer users a rich shopping experience powered entirely by natural interactions.
+The Amazon agent is built using Gemini API for reasoning and connects to an amazon-mcp model for commerce-related tasks. This allows us to offer users a rich shopping experience powered entirely by natural interactions. it is hosted on agentverse - https://agentverse.ai/agents/details/agent1qvzuryaayn6ah0ss0nsstvjy3jkutsjcrfcmqdnp6n26akz0c89e775hcat/profile
 
 Core Features of the Amazon Agent:
 
